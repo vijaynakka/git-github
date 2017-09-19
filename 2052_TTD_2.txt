@@ -68,5 +68,3 @@ Chemical Clean
 LANDSCAPE
 Replace Grass Front Lawn
 Check sprinklers
-
-Add one line
